@@ -1,0 +1,27 @@
+.navBg{
+    background-color: rgb(211, 231, 249);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.bodyBg {
+    background-color: rgb(214, 231, 232);
+    min-height: 300px;
+border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+body {
+    font-family: "futura-pt", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.last-guy {
+    
+    background-color: rgb(211, 231, 249);
+}
+
+.moveOver {
+    padding-right: 0;
+}
